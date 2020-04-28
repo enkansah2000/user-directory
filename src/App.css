@@ -1,0 +1,29 @@
+/* :root {
+  --mainBlue: blue;
+  --lightBlue: lightblue;
+  --mainWhite: #ffffff;
+  --mainGray: gray;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--mainWhite) !important;
+
+}
+
+.text-title{
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+ .text-blue{
+   color: var(--lightBlue);
+ } */
+
+ .app {
+   background: blue;
+   /* padding: 30px; */
+   height: 100vh;
+ }
+
+ 
